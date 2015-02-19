@@ -1,0 +1,28 @@
+{
+  "name": "settings-utils",
+  "version": "1.0.0",
+  "homepage": "https://github.com/SonoIo/settings-utils",
+  "authors": [
+    "Inside a bit"
+  ],
+  "description": "Settings utils for browser and node.js",
+  "main": "lib/Settings.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "localstorage",
+    "settings",
+    "utils"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
