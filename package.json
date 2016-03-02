@@ -1,19 +1,32 @@
 {
-  "name": "context-utils",
-  "version": "1.0.1",
-  "description": "Context utils for browser and node.js",
-  "main": "lib/context.js",
+  "name": "settings-utils",
+  "version": "1.0.0",
+  "description": "Settings utils for browser and node.js",
+  "main": "lib/Settings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SonoIo/context-utils.git"
+    "url": "git+https://github.com/SonoIo/settings-utils.git"
   },
   "keywords": [
+    "localstorage",
+    "settings",
     "utils"
   ],
-  "author": "Inside a bit",
+  "contributors": [
+    { "name" : "Matteo Baggio", 
+      "email" : "matteo.baggio@gmail.com"
+    },
+    { "name" : "Michele Belluco", 
+      "email" : "michele@belluco.info"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SonoIo/context-utils/issues"
+    "url": "https://github.com/SonoIo/settings-utils/issues"
   },
-  "homepage": "https://github.com/SonoIo/context-utils"
+  "homepage": "https://github.com/SonoIo/settings-utils#readme",
+  "dependencies": {}
 }
