@@ -1,6 +1,6 @@
 {
   "name": "settings-utils",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "homepage": "https://github.com/SonoIo/settings-utils",
   "description": "Settings utils for browser and node.js",
   "main": "lib/Settings.js",

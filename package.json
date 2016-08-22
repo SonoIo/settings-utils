@@ -1,6 +1,6 @@
 {
   "name": "settings-utils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Settings utils for browser and node.js",
   "main": "lib/Settings.js",
   "scripts": {
@@ -16,10 +16,10 @@
     "utils"
   ],
   "contributors": [
-    { "name" : "Matteo Baggio", 
+    { "name" : "Matteo Baggio",
       "email" : "matteo.baggio@gmail.com"
     },
-    { "name" : "Michele Belluco", 
+    { "name" : "Michele Belluco",
       "email" : "michele@belluco.info"
     }
   ],
